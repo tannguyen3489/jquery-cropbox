@@ -1,4 +1,4 @@
-# jquery-cropbox plugin.
+# jquery-cropbox plugin. (Independently with Hammerjs)
 
 jQuery plugin for in-place image cropping (zoom & pan, as opposed to select and drag).
 
